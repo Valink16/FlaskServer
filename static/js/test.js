@@ -1,0 +1,1 @@
+alert("This is my first JavaScript... script xD");
